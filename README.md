@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-Project Hub
-================
+St Sophia Project Hub + Timeline
+==============================
 
-Read more about [project hubs on 24 Ways.](http://24ways.org/2013/project-hubs/)
+The Project Hub + Timeline for the St Sophia Cathedral 2014 Open Website Redesign
 
 This is an HTML template for online project timelines (also known as "project hubs").
 
@@ -16,12 +15,4 @@ The benefits of using a project hub:
 - Keep clients and team members up to speed with design progress
 - Lives at a URL that doesn't change
 
-## Resources
-- [Overview of project hubs on 24 Ways.](http://24ways.org/2013/project-hubs/)
-- [Jekyll version of project hubs](https://github.com/himedlooff/project-timeline)
-=======
-St Sophia Project Hub + Timeline
-==============================
-
-The Project Hub + Timeline for the St Sophia Cathedral 2014 Open Website Redesign
->>>>>>> b92123be661e0ee814658f5cd88c205eaf3fe051
+Read more about [project hubs on 24 Ways.](http://24ways.org/2013/project-hubs/)
