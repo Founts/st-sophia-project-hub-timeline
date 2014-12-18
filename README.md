@@ -1,4 +1,4 @@
-st-sophia-project-hub-timeline
+St Sophia Project Hub + Timeline
 ==============================
 
-The Project Hub and Timeline for the Saint Sophia Cathedral 2014 Website Redesign
+The Project Hub + Timeline for the St Sophia Cathedral 2014 Open Website Redesign
