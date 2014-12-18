@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Hub
 ================
 
@@ -18,3 +19,9 @@ The benefits of using a project hub:
 ## Resources
 - [Overview of project hubs on 24 Ways.](http://24ways.org/2013/project-hubs/)
 - [Jekyll version of project hubs](https://github.com/himedlooff/project-timeline)
+=======
+St Sophia Project Hub + Timeline
+==============================
+
+The Project Hub + Timeline for the St Sophia Cathedral 2014 Open Website Redesign
+>>>>>>> b92123be661e0ee814658f5cd88c205eaf3fe051
